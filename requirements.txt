@@ -1,0 +1,11 @@
+dash
+dash-bootstrap-components
+transformers
+sentence-transformers
+scikit-learn
+pandas
+gdown
+faiss-cpu
+gtts
+wikipedia
+torch
